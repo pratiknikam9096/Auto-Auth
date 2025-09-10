@@ -1,5 +1,5 @@
 {
-  "name": "@pratiknikam9096/auto-auth",
+  "name": "@nikampratik9096/auto-auth",
   "version": "2.0.1",
   "description": "A unified authentication SDK combining bcrypt, JWT, and Role-Based Access Control (RBAC).",
   "main": "dist/index.js",
